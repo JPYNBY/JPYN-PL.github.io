@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>My Profile</title>
 <style>
 body {
@@ -122,7 +120,7 @@ a {
         <h4 class="shiny-text" onclick="delayedLink(event)">japan__jeden__offical__17
         </h4>
 
-        <p>Your bio here</p>
+        <p>RACIST</p>
 
         <a href="https://www.instagram.com/japan__jeden__offical__17/" class="shiny-text" onclick="delayedLink(event)">
             Open Instagram
