@@ -119,8 +119,7 @@ a {
             <img class="profile" src="https://i.ibb.co/7x3qmyRF/JPYN.webp" alt="Profile Picture">
         </a>
 
-        <h3 class="shiny-text" onclick="delayedLink(event)">
-            @japan__jeden__offical__17
+        <h3 class="shiny-text" onclick="delayedLink(event)">japan__jeden__offical__17
         </h3>
 
         <p>Your bio here</p>
